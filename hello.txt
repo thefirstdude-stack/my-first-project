@@ -1,1 +1,1 @@
-this is a test
+Welcome to my first real Git project - fully working with patches now!
